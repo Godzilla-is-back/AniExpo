@@ -1,0 +1,7 @@
+{
+  "name": "SakuraStream",
+  "description": "Next-gen anime streaming app with multi-server playback (Anikoto, AniDB, ZoroCloud), buttery smooth UI, Google watchlist sync, offline downloads, and customizable Sakura themes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
